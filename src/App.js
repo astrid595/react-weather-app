@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         
-        <Weather />
+        <Weather defaultCity="New York"/>
         <footer>
           This project is created by Astrid VU and is {" "}
         <a href="https://github.com/astrid595/react-weather-app" target="_blank" rel="noopener noreferrer"> open sourced on Github </a>
