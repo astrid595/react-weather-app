@@ -26,7 +26,7 @@ export default function Weather() {
         <div className="row mt-3">
             <div className="col-6">
                 <div className="clearfix">
-                    <img src="" alt="Mostly cloudly" className="float-left"/>
+                    <img src="https://assets.msn.com/weathermapdata/1/static/svg/72/v2/card_fix_partlysunny/PartlyCloudyNightV2.svg" alt="Mostly cloudly" className="float-left"/>
                     <div className="float-left">
                         <span className="temperature">6</span>
                         <span className="unit">℃</span>
